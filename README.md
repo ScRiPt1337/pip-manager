@@ -1,2 +1,2 @@
-# refactored-fortnight
+# pip-manager
 GUI for pip
